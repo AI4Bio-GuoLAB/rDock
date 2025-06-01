@@ -1,8 +1,6 @@
 # rDock - An Open-Source Toolkit for Scalable Reverse Docking
 
-A comprehensive molecular docking workflow that automates the entire process from ligand preparation to binding affinity prediction using multiple docking engines and scoring functions.
-
-An open-source Python toolkit for high-throughput reverse docking with enhanced accuracy and scalability
+An open-source Python toolkit that provides a comprehensive molecular docking workflow, automating the entire process from ligand preparation to binding affinity prediction. The workflow integrates two docking engines—AutoDock Vina and idock—and supports both the original Vina scoring function and an enhanced scoring scheme, Vina_SFCT. It is designed for high-throughput reverse docking with improved accuracy and scalability, making it particularly suitable for large-scale virtual screening tasks.
 
 ## 🔬 Overview
 
