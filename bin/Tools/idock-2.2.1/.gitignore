@@ -1,0 +1,11 @@
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.csv
+*.pdbqt
+doc
+bin
+dev
+testcases
