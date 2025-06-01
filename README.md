@@ -1,6 +1,8 @@
-# rDock - Molecular Docking Workflow
+# rDock - An Open-Source Toolkit for Scalable Reverse Docking
 
 A comprehensive molecular docking workflow that automates the entire process from ligand preparation to binding affinity prediction using multiple docking engines and scoring functions.
+
+An open-source Python toolkit for high-throughput reverse docking with enhanced accuracy and scalability
 
 ## 🔬 Overview
 
